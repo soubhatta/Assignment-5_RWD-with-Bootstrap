@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1,
+  h2 {
+    text-align: center;
+  }
+  
+  section {
+    margin: 20px 0;
+  }
+  
+  form {
+    background-color: #E9F5FF;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  form input,
+  form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #1777de;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056B3;
+  }
+  
+  #employeeList li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  
+  
+  #employeeList a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  #employeeList a:hover {
+    text-decoration: underline;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th,
+  table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  #backcolor {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .emp {
+    color: #333333;
+  }
